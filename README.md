@@ -3,10 +3,12 @@
 
 基于贡献点利润分成的创业新模式
 
-
+# 项目列表
+[项目列表](https://github.com/lotosbin/xproject/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aproject)
 
 # 功能建议
 [![Feature Requests](http://feathub.com/lotosbin/xproject?format=svg)](http://feathub.com/lotosbin/xproject)
+
 
 
 # 加入讨论
