@@ -4,6 +4,7 @@
 基于贡献点利润分成的创业新模式
 
 # 项目列表
+创意提交/建议提交/赞赏捐赠 点击下方链接
 [项目列表](https://github.com/lotosbin/xproject/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aproject)
 
 # 功能建议
